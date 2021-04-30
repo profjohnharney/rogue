@@ -1,0 +1,3 @@
+# Just a beginning point...
+
+Using this repo to muck around and get to know libtcod.
